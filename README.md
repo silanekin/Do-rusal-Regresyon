@@ -1,2 +1,2 @@
-# Do-rusal-Regresyon
-Python
+# Dogrusal-Regresyon
+Python-Makine Ögrenmesi
